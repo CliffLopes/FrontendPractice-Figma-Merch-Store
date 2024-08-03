@@ -1,0 +1,7 @@
+.hover-text-grey:hover .text-grey {
+  color: grey;
+}
+
+.hover-text-grey:hover .no-hover {
+  color: black;
+}
